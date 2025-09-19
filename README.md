@@ -1,5 +1,5 @@
 # I-Am-Poor
-# 💸 I Am Poor
+# I Am Poor
 
 **I Am Poor** is a simple static iOS app that displays a piece of text and an image.  
 It was inspired by the infamous *I Am Rich* app that once sold on the App Store for **$999** and only displayed a diamond and the text “I Am Rich.”  
@@ -13,7 +13,7 @@ This project isn’t about complexity — it’s about learning the **full flow 
 
 ---
 
-## 📖 Description
+## Description
 
 The app consists of:
 - A label displaying **“I Am Poor”**  
@@ -24,7 +24,7 @@ This is my very first iOS/Xcode project and also my first attempt at properly us
 
 ---
 
-## 🛠️ How I Built It
+## ️ How I Built It
 
 ### 1) Xcode Setup
 - Created a new project in **Xcode**.  
